@@ -26,4 +26,4 @@
 * SurvReg.R - Gompertz regression analysis, Kruskal Wallis tests for Gompertz parameters, Kaplan Meier plot in Figure 3A
 
 ## Citation
-> **Watson, Eric T.**; Flanagan, B.; Pascar, J.A.; Edmands, S. *in press*. Proceedings of the Royal Society B: Biological Sciences**
+> **Watson, Eric T.**; Flanagan, B.; Pascar, J.A.; Edmands, S. Mitochondrial effects on fertility and longevity in *Tigriopus californicus* contradict predictions of the mother’s curse hypothesis Proceedings of the Royal Society B: Biological Sciences *in press* **
