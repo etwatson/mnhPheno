@@ -3,7 +3,6 @@ library(emmeans)
 library(dplyr)
 library(MuMIn)
 
-setwd("~/Dropbox/Cybrids (1)/manuscript/original_code/")
 ti <- read.table("longevity_data.txt",header = TRUE)
 fi <- read.table("fertility_data.txt",header = TRUE)
 ti <- ti %>% filter(deathStage == "adult", Sex %in% c("Male","Female"))
